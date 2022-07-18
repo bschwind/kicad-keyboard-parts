@@ -27,7 +27,7 @@
   (fp_line (start 7.499672 5.000007) (end 46.005922 5.000007) (layer "Edge.Cuts") (width 0.010007) (tstamp 3537c07e-7097-4552-b7df-f01a516d3f7c))
   (fp_line (start -7 -6.5) (end -7 -5.5) (layer "Edge.Cuts") (width 0.010007) (tstamp 3d36ca96-da0f-475c-b7d1-c756a4063531))
   (fp_line (start 47.00625 -6) (end 53.00625 -6) (layer "Edge.Cuts") (width 0.010007) (tstamp 5295afc6-ab77-4b4c-bf75-28686045c2bb))
-  (fp_line (start -6.5 7) (end 6.5 7) (layer "Edge.Cuts") (width 0.010007) (tstamp 88370a98-70e9-4a64-b47b-d27b756e7dc6))
+  (fp_line (start -6.5 7) (end 6.499672 7.000007) (layer "Edge.Cuts") (width 0.010007) (tstamp 88370a98-70e9-4a64-b47b-d27b756e7dc6))
   (fp_line (start 46.505922 5.500007) (end 46.50625 7.5) (layer "Edge.Cuts") (width 0.010007) (tstamp 98538aaf-560b-4eb8-a685-bdfcaeafe972))
   (fp_line (start -46.00625 5) (end -7.5 5) (layer "Edge.Cuts") (width 0.010007) (tstamp a04c0bdc-b420-4b42-b7be-73e642dcd960))
   (fp_line (start 53.50625 -5.5) (end 53.50625 7.5) (layer "Edge.Cuts") (width 0.010007) (tstamp a2c17eee-a571-4133-8894-a99658e5b368))

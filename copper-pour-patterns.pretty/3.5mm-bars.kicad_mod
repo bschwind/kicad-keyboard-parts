@@ -20,8 +20,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 244.5 160)
-        (xy 244 160)
+        (xy 244.5 320)
+        (xy 244 320)
         (xy 244 0)
         (xy 244.5 0)
       )
@@ -34,8 +34,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 320.5 160)
-        (xy 320 160)
+        (xy 320.5 320)
+        (xy 320 320)
         (xy 320 0)
         (xy 320.5 0)
       )
@@ -48,8 +48,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 108.5 160)
-        (xy 108 160)
+        (xy 108.5 320)
+        (xy 108 320)
         (xy 108 0)
         (xy 108.5 0)
       )
@@ -62,8 +62,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 212.5 160)
-        (xy 212 160)
+        (xy 212.5 320)
+        (xy 212 320)
         (xy 212 0)
         (xy 212.5 0)
       )
@@ -76,8 +76,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 76.5 160)
-        (xy 76 160)
+        (xy 76.5 320)
+        (xy 76 320)
         (xy 76 0)
         (xy 76.5 0)
       )
@@ -90,8 +90,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 32.5 160)
-        (xy 32 160)
+        (xy 32.5 320)
+        (xy 32 320)
         (xy 32 0)
         (xy 32.5 0)
       )
@@ -104,8 +104,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 72.5 160)
-        (xy 72 160)
+        (xy 72.5 320)
+        (xy 72 320)
         (xy 72 0)
         (xy 72.5 0)
       )
@@ -118,8 +118,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 236.5 160)
-        (xy 236 160)
+        (xy 236.5 320)
+        (xy 236 320)
         (xy 236 0)
         (xy 236.5 0)
       )
@@ -132,8 +132,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 376.5 160)
-        (xy 376 160)
+        (xy 376.5 320)
+        (xy 376 320)
         (xy 376 0)
         (xy 376.5 0)
       )
@@ -146,8 +146,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 276.5 160)
-        (xy 276 160)
+        (xy 276.5 320)
+        (xy 276 320)
         (xy 276 0)
         (xy 276.5 0)
       )
@@ -160,8 +160,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 144.5 160)
-        (xy 144 160)
+        (xy 144.5 320)
+        (xy 144 320)
         (xy 144 0)
         (xy 144.5 0)
       )
@@ -174,8 +174,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 20.5 160)
-        (xy 20 160)
+        (xy 20.5 320)
+        (xy 20 320)
         (xy 20 0)
         (xy 20.5 0)
       )
@@ -188,8 +188,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 184.5 160)
-        (xy 184 160)
+        (xy 184.5 320)
+        (xy 184 320)
         (xy 184 0)
         (xy 184.5 0)
       )
@@ -202,8 +202,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 52.5 160)
-        (xy 52 160)
+        (xy 52.5 320)
+        (xy 52 320)
         (xy 52 0)
         (xy 52.5 0)
       )
@@ -216,8 +216,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 204.5 160)
-        (xy 204 160)
+        (xy 204.5 320)
+        (xy 204 320)
         (xy 204 0)
         (xy 204.5 0)
       )
@@ -230,8 +230,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 48.5 160)
-        (xy 48 160)
+        (xy 48.5 320)
+        (xy 48 320)
         (xy 48 0)
         (xy 48.5 0)
       )
@@ -244,8 +244,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 60.5 160)
-        (xy 60 160)
+        (xy 60.5 320)
+        (xy 60 320)
         (xy 60 0)
         (xy 60.5 0)
       )
@@ -258,8 +258,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 88.5 160)
-        (xy 88 160)
+        (xy 88.5 320)
+        (xy 88 320)
         (xy 88 0)
         (xy 88.5 0)
       )
@@ -272,8 +272,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 4.5 160)
-        (xy 4 160)
+        (xy 4.5 320)
+        (xy 4 320)
         (xy 4 0)
         (xy 4.5 0)
       )
@@ -286,8 +286,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 12.5 160)
-        (xy 12 160)
+        (xy 12.5 320)
+        (xy 12 320)
         (xy 12 0)
         (xy 12.5 0)
       )
@@ -300,8 +300,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 188.5 160)
-        (xy 188 160)
+        (xy 188.5 320)
+        (xy 188 320)
         (xy 188 0)
         (xy 188.5 0)
       )
@@ -314,8 +314,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 380.5 160)
-        (xy 380 160)
+        (xy 380.5 320)
+        (xy 380 320)
         (xy 380 0)
         (xy 380.5 0)
       )
@@ -328,8 +328,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 124.5 160)
-        (xy 124 160)
+        (xy 124.5 320)
+        (xy 124 320)
         (xy 124 0)
         (xy 124.5 0)
       )
@@ -342,8 +342,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 116.5 160)
-        (xy 116 160)
+        (xy 116.5 320)
+        (xy 116 320)
         (xy 116 0)
         (xy 116.5 0)
       )
@@ -356,8 +356,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 24.5 160)
-        (xy 24 160)
+        (xy 24.5 320)
+        (xy 24 320)
         (xy 24 0)
         (xy 24.5 0)
       )
@@ -370,8 +370,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 304.5 160)
-        (xy 304 160)
+        (xy 304.5 320)
+        (xy 304 320)
         (xy 304 0)
         (xy 304.5 0)
       )
@@ -384,8 +384,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 168.5 160)
-        (xy 168 160)
+        (xy 168.5 320)
+        (xy 168 320)
         (xy 168 0)
         (xy 168.5 0)
       )
@@ -398,8 +398,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 68.5 160)
-        (xy 68 160)
+        (xy 68.5 320)
+        (xy 68 320)
         (xy 68 0)
         (xy 68.5 0)
       )
@@ -412,8 +412,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 64.5 160)
-        (xy 64 160)
+        (xy 64.5 320)
+        (xy 64 320)
         (xy 64 0)
         (xy 64.5 0)
       )
@@ -426,8 +426,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 336.5 160)
-        (xy 336 160)
+        (xy 336.5 320)
+        (xy 336 320)
         (xy 336 0)
         (xy 336.5 0)
       )
@@ -440,8 +440,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 284.5 160)
-        (xy 284 160)
+        (xy 284.5 320)
+        (xy 284 320)
         (xy 284 0)
         (xy 284.5 0)
       )
@@ -454,8 +454,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 96.5 160)
-        (xy 96 160)
+        (xy 96.5 320)
+        (xy 96 320)
         (xy 96 0)
         (xy 96.5 0)
       )
@@ -468,8 +468,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 288.5 160)
-        (xy 288 160)
+        (xy 288.5 320)
+        (xy 288 320)
         (xy 288 0)
         (xy 288.5 0)
       )
@@ -482,8 +482,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 200.5 160)
-        (xy 200 160)
+        (xy 200.5 320)
+        (xy 200 320)
         (xy 200 0)
         (xy 200.5 0)
       )
@@ -496,8 +496,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 180.5 160)
-        (xy 180 160)
+        (xy 180.5 320)
+        (xy 180 320)
         (xy 180 0)
         (xy 180.5 0)
       )
@@ -510,8 +510,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 228.5 160)
-        (xy 228 160)
+        (xy 228.5 320)
+        (xy 228 320)
         (xy 228 0)
         (xy 228.5 0)
       )
@@ -524,8 +524,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 216.5 160)
-        (xy 216 160)
+        (xy 216.5 320)
+        (xy 216 320)
         (xy 216 0)
         (xy 216.5 0)
       )
@@ -538,8 +538,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 372.5 160)
-        (xy 372 160)
+        (xy 372.5 320)
+        (xy 372 320)
         (xy 372 0)
         (xy 372.5 0)
       )
@@ -552,8 +552,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 224.5 160)
-        (xy 224 160)
+        (xy 224.5 320)
+        (xy 224 320)
         (xy 224 0)
         (xy 224.5 0)
       )
@@ -566,8 +566,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 148.5 160)
-        (xy 148 160)
+        (xy 148.5 320)
+        (xy 148 320)
         (xy 148 0)
         (xy 148.5 0)
       )
@@ -580,8 +580,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 272.5 160)
-        (xy 272 160)
+        (xy 272.5 320)
+        (xy 272 320)
         (xy 272 0)
         (xy 272.5 0)
       )
@@ -594,8 +594,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 208.5 160)
-        (xy 208 160)
+        (xy 208.5 320)
+        (xy 208 320)
         (xy 208 0)
         (xy 208.5 0)
       )
@@ -608,8 +608,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 132.5 160)
-        (xy 132 160)
+        (xy 132.5 320)
+        (xy 132 320)
         (xy 132 0)
         (xy 132.5 0)
       )
@@ -622,8 +622,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 156.5 160)
-        (xy 156 160)
+        (xy 156.5 320)
+        (xy 156 320)
         (xy 156 0)
         (xy 156.5 0)
       )
@@ -636,8 +636,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 8.5 160)
-        (xy 8 160)
+        (xy 8.5 320)
+        (xy 8 320)
         (xy 8 0)
         (xy 8.5 0)
       )
@@ -650,8 +650,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 280.5 160)
-        (xy 280 160)
+        (xy 280.5 320)
+        (xy 280 320)
         (xy 280 0)
         (xy 280.5 0)
       )
@@ -664,8 +664,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 232.5 160)
-        (xy 232 160)
+        (xy 232.5 320)
+        (xy 232 320)
         (xy 232 0)
         (xy 232.5 0)
       )
@@ -678,8 +678,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 368.5 160)
-        (xy 368 160)
+        (xy 368.5 320)
+        (xy 368 320)
         (xy 368 0)
         (xy 368.5 0)
       )
@@ -692,8 +692,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 344.5 160)
-        (xy 344 160)
+        (xy 344.5 320)
+        (xy 344 320)
         (xy 344 0)
         (xy 344.5 0)
       )
@@ -706,8 +706,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 152.5 160)
-        (xy 152 160)
+        (xy 152.5 320)
+        (xy 152 320)
         (xy 152 0)
         (xy 152.5 0)
       )
@@ -720,8 +720,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 164.5 160)
-        (xy 164 160)
+        (xy 164.5 320)
+        (xy 164 320)
         (xy 164 0)
         (xy 164.5 0)
       )
@@ -734,8 +734,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 252.5 160)
-        (xy 252 160)
+        (xy 252.5 320)
+        (xy 252 320)
         (xy 252 0)
         (xy 252.5 0)
       )
@@ -748,8 +748,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 352.5 160)
-        (xy 352 160)
+        (xy 352.5 320)
+        (xy 352 320)
         (xy 352 0)
         (xy 352.5 0)
       )
@@ -762,8 +762,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 128.5 160)
-        (xy 128 160)
+        (xy 128.5 320)
+        (xy 128 320)
         (xy 128 0)
         (xy 128.5 0)
       )
@@ -776,8 +776,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 192.5 160)
-        (xy 192 160)
+        (xy 192.5 320)
+        (xy 192 320)
         (xy 192 0)
         (xy 192.5 0)
       )
@@ -790,8 +790,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 312.5 160)
-        (xy 312 160)
+        (xy 312.5 320)
+        (xy 312 320)
         (xy 312 0)
         (xy 312.5 0)
       )
@@ -804,8 +804,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 356.5 160)
-        (xy 356 160)
+        (xy 356.5 320)
+        (xy 356 320)
         (xy 356 0)
         (xy 356.5 0)
       )
@@ -818,8 +818,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 308.5 160)
-        (xy 308 160)
+        (xy 308.5 320)
+        (xy 308 320)
         (xy 308 0)
         (xy 308.5 0)
       )
@@ -832,8 +832,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 268.5 160)
-        (xy 268 160)
+        (xy 268.5 320)
+        (xy 268 320)
         (xy 268 0)
         (xy 268.5 0)
       )
@@ -846,8 +846,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 56.5 160)
-        (xy 56 160)
+        (xy 56.5 320)
+        (xy 56 320)
         (xy 56 0)
         (xy 56.5 0)
       )
@@ -860,8 +860,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 92.5 160)
-        (xy 92 160)
+        (xy 92.5 320)
+        (xy 92 320)
         (xy 92 0)
         (xy 92.5 0)
       )
@@ -874,8 +874,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 240.5 160)
-        (xy 240 160)
+        (xy 240.5 320)
+        (xy 240 320)
         (xy 240 0)
         (xy 240.5 0)
       )
@@ -888,8 +888,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 340.5 160)
-        (xy 340 160)
+        (xy 340.5 320)
+        (xy 340 320)
         (xy 340 0)
         (xy 340.5 0)
       )
@@ -902,8 +902,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 84.5 160)
-        (xy 84 160)
+        (xy 84.5 320)
+        (xy 84 320)
         (xy 84 0)
         (xy 84.5 0)
       )
@@ -916,8 +916,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 248.5 160)
-        (xy 248 160)
+        (xy 248.5 320)
+        (xy 248 320)
         (xy 248 0)
         (xy 248.5 0)
       )
@@ -930,8 +930,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 296.5 160)
-        (xy 296 160)
+        (xy 296.5 320)
+        (xy 296 320)
         (xy 296 0)
         (xy 296.5 0)
       )
@@ -944,8 +944,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 36.5 160)
-        (xy 36 160)
+        (xy 36.5 320)
+        (xy 36 320)
         (xy 36 0)
         (xy 36.5 0)
       )
@@ -958,8 +958,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 28.5 160)
-        (xy 28 160)
+        (xy 28.5 320)
+        (xy 28 320)
         (xy 28 0)
         (xy 28.5 0)
       )
@@ -972,8 +972,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 80.5 160)
-        (xy 80 160)
+        (xy 80.5 320)
+        (xy 80 320)
         (xy 80 0)
         (xy 80.5 0)
       )
@@ -986,8 +986,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 220.5 160)
-        (xy 220 160)
+        (xy 220.5 320)
+        (xy 220 320)
         (xy 220 0)
         (xy 220.5 0)
       )
@@ -1000,8 +1000,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 260.5 160)
-        (xy 260 160)
+        (xy 260.5 320)
+        (xy 260 320)
         (xy 260 0)
         (xy 260.5 0)
       )
@@ -1014,8 +1014,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 40.5 160)
-        (xy 40 160)
+        (xy 40.5 320)
+        (xy 40 320)
         (xy 40 0)
         (xy 40.5 0)
       )
@@ -1028,8 +1028,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 300.5 160)
-        (xy 300 160)
+        (xy 300.5 320)
+        (xy 300 320)
         (xy 300 0)
         (xy 300.5 0)
       )
@@ -1042,8 +1042,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 264.5 160)
-        (xy 264 160)
+        (xy 264.5 320)
+        (xy 264 320)
         (xy 264 0)
         (xy 264.5 0)
       )
@@ -1056,8 +1056,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 0.5 160)
-        (xy 0 160)
+        (xy 0.5 320)
+        (xy 0 320)
         (xy 0 0)
         (xy 0.5 0)
       )
@@ -1070,8 +1070,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 176.5 160)
-        (xy 176 160)
+        (xy 176.5 320)
+        (xy 176 320)
         (xy 176 0)
         (xy 176.5 0)
       )
@@ -1084,8 +1084,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 44.5 160)
-        (xy 44 160)
+        (xy 44.5 320)
+        (xy 44 320)
         (xy 44 0)
         (xy 44.5 0)
       )
@@ -1098,8 +1098,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 136.5 160)
-        (xy 136 160)
+        (xy 136.5 320)
+        (xy 136 320)
         (xy 136 0)
         (xy 136.5 0)
       )
@@ -1112,8 +1112,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 100.5 160)
-        (xy 100 160)
+        (xy 100.5 320)
+        (xy 100 320)
         (xy 100 0)
         (xy 100.5 0)
       )
@@ -1126,8 +1126,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 256.5 160)
-        (xy 256 160)
+        (xy 256.5 320)
+        (xy 256 320)
         (xy 256 0)
         (xy 256.5 0)
       )
@@ -1140,8 +1140,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 196.5 160)
-        (xy 196 160)
+        (xy 196.5 320)
+        (xy 196 320)
         (xy 196 0)
         (xy 196.5 0)
       )
@@ -1154,8 +1154,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 160.5 160)
-        (xy 160 160)
+        (xy 160.5 320)
+        (xy 160 320)
         (xy 160 0)
         (xy 160.5 0)
       )
@@ -1168,8 +1168,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 16.5 160)
-        (xy 16 160)
+        (xy 16.5 320)
+        (xy 16 320)
         (xy 16 0)
         (xy 16.5 0)
       )
@@ -1182,8 +1182,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 348.5 160)
-        (xy 348 160)
+        (xy 348.5 320)
+        (xy 348 320)
         (xy 348 0)
         (xy 348.5 0)
       )
@@ -1196,8 +1196,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 324.5 160)
-        (xy 324 160)
+        (xy 324.5 320)
+        (xy 324 320)
         (xy 324 0)
         (xy 324.5 0)
       )
@@ -1210,8 +1210,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 120.5 160)
-        (xy 120 160)
+        (xy 120.5 320)
+        (xy 120 320)
         (xy 120 0)
         (xy 120.5 0)
       )
@@ -1224,8 +1224,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 328.5 160)
-        (xy 328 160)
+        (xy 328.5 320)
+        (xy 328 320)
         (xy 328 0)
         (xy 328.5 0)
       )
@@ -1238,8 +1238,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 332.5 160)
-        (xy 332 160)
+        (xy 332.5 320)
+        (xy 332 320)
         (xy 332 0)
         (xy 332.5 0)
       )
@@ -1252,8 +1252,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 104.5 160)
-        (xy 104 160)
+        (xy 104.5 320)
+        (xy 104 320)
         (xy 104 0)
         (xy 104.5 0)
       )
@@ -1266,8 +1266,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 360.5 160)
-        (xy 360 160)
+        (xy 360.5 320)
+        (xy 360 320)
         (xy 360 0)
         (xy 360.5 0)
       )
@@ -1280,8 +1280,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 172.5 160)
-        (xy 172 160)
+        (xy 172.5 320)
+        (xy 172 320)
         (xy 172 0)
         (xy 172.5 0)
       )
@@ -1294,8 +1294,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 140.5 160)
-        (xy 140 160)
+        (xy 140.5 320)
+        (xy 140 320)
         (xy 140 0)
         (xy 140.5 0)
       )
@@ -1308,8 +1308,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 364.5 160)
-        (xy 364 160)
+        (xy 364.5 320)
+        (xy 364 320)
         (xy 364 0)
         (xy 364.5 0)
       )
@@ -1322,8 +1322,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 292.5 160)
-        (xy 292 160)
+        (xy 292.5 320)
+        (xy 292 320)
         (xy 292 0)
         (xy 292.5 0)
       )
@@ -1336,8 +1336,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 316.5 160)
-        (xy 316 160)
+        (xy 316.5 320)
+        (xy 316 320)
         (xy 316 0)
         (xy 316.5 0)
       )
@@ -1350,8 +1350,8 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 112.5 160)
-        (xy 112 160)
+        (xy 112.5 320)
+        (xy 112 320)
         (xy 112 0)
         (xy 112.5 0)
       )

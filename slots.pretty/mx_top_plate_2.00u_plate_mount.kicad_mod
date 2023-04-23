@@ -1,4 +1,4 @@
-(footprint "mx_top_plate_2.00u" (version 20221018) (generator pcbnew)
+(footprint "mx_top_plate_2.00u_plate_mount" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 2.38125) (layer "Eco1.User")
